@@ -93,4 +93,11 @@ Deploy Flask app to cloud (Heroku/AWS)
 Add GPS and map-based visual alerts
 
 Build mobile app for instant notifications
+___
+📩 Contact
+For queries or collaboration, reach out to:
+
+ramya003ramya@gmail.com
+
+msharmila030@gmail.com
 
